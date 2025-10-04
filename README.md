@@ -1,2 +1,2 @@
 # emojipidea
-Created with CodeSandbox
+emoji based app 
